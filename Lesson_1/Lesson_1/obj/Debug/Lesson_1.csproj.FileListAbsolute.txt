@@ -1,0 +1,7 @@
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\obj\Debug\Lesson_1.csprojResolveAssemblyReference.cache
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\obj\Debug\Lesson_1.csproj.CoreCompileInputs.cache
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\bin\Debug\Lesson_1.exe.config
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\bin\Debug\Lesson_1.exe
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\bin\Debug\Lesson_1.pdb
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\obj\Debug\Lesson_1.exe
+D:\Git\C#\GeekBrains\C# Level_1\Lesson_1\Lesson_1\obj\Debug\Lesson_1.pdb
