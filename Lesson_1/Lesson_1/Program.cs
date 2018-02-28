@@ -97,7 +97,7 @@ namespace Lesson_1
 
             Console.WriteLine(name+" "+surname + " " + age + " " + h + " " + m);
             Console.WriteLine("{0} {1} {2} {3} {4}", name, surname, age, h, m);
-            //в) *используя вывод со знаком $ - не нашел что это такое
+            Console.WriteLine($"{name} {surname} {age} {h} {m}");
         }
 
         /// <summary>
