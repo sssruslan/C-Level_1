@@ -117,7 +117,7 @@ namespace Task_3
         /// <param name="b">знаменатель</param>
         public void Reduce(ref int a, ref int b)
         {
-            for (int i = 2; i < Math.Max(a, b); i++)
+            for (int i = 2; i < Math.Min(a, b); i++)
             {
                 if (a % i == 0 && b % i == 0)
                 {
