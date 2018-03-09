@@ -128,7 +128,7 @@ namespace Task_3
             }
         }
 
-        public string ToString()
+        public override string ToString()
         {
             return numerator + "/" + denominator;
         }
